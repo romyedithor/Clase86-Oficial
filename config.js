@@ -1,0 +1,1 @@
+//export const firebaseConfig = { apiKey: "AIzaSyD6pXCnu1GzmA8djVBch4ug4KzC4RNrQaU", authDomain: "app-historias-9828e.firebaseapp.com", projectId: "app-historias-9828e", storageBucket: "app-historias-9828e.appspot.com", messagingSenderId: "996790309807", appId: "1:996790309807:web:87cb8e9d911a7df957955a" };
